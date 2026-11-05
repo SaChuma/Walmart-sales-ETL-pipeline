@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="walmartecomm.jpg" alt="Walmart eCommerce" width="400"/>
+  <img src="Walmart%20sales%20ETL%20pipeline/walmartecomm.jpg" alt="Walmart eCommerce" width="400"/>
 </p>
 
 # Walmart Sales ETL Pipeline
