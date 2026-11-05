@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="walmartecomm.jpg" alt="Walmart eCommerce" width="400"/>
+</p>
+
 # Walmart Sales ETL Pipeline
 
 An end-to-end ETL pipeline in Python and SQL that analyses weekly Walmart store sales around public holidays. It extracts sales data from PostgreSQL, merges it with complementary economic data, cleans and aggregates it, then loads the results to CSV with a validation check.
